@@ -38,6 +38,6 @@ public class Components {
         return constructorInjection;
     }
 
-    // Constructor injection (Omitted)
+    // Constructor injection with lombok.RequiredArgsConstructor
     // private final AutowiredConfig constructorInjectionOmitted;
 }
